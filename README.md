@@ -1,4 +1,4 @@
-# Learn-Programming-
+# Learn-Programming
 
 The aim of this Project is to create a Platform to learn Coding.
 How? through: 
