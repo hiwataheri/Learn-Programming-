@@ -5,4 +5,4 @@ How? through:
 Video Tutorials
 Written Tutorials
 cheat sheets
-Project recommedations
+Project recommendations
