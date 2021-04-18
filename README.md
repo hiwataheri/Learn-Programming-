@@ -8,4 +8,5 @@ How? through:
 * cheat sheets
 * Project recommendations
 * share experiences
+* code reviews
 
