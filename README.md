@@ -9,3 +9,6 @@ How? through:
 * Project recommendations
 * share experiences
 * share project updates
+* code reviews
+
+
