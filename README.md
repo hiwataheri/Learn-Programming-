@@ -10,5 +10,5 @@ How? through:
 * share experiences
 * code reviews
 * test
-* control
+* 
 
